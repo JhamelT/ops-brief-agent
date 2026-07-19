@@ -4,7 +4,8 @@ An autonomous daily AWS ops brief. Every morning at 7:00 AM Central, EventBridge
 
 Built for the AWS Builder Center Weekend Agent Challenge (July 2026).
 
-![Architecture](docs/architecture.png)
+![Architecture](/docs
+/ops-brief-agent-architecture.png)
 
 ## What it collects
 
